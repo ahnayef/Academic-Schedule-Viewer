@@ -24,7 +24,7 @@ To run the application, follow these steps:
 
 ## Screenshot
 
-<img src="" alt="demo"></img>
+<img src="https://raw.githubusercontent.com/ahnayef/Academic-Schedule-Viewer/main/src/screenshots/demo.png" alt="demo"></img>
 
 ## Features
 
