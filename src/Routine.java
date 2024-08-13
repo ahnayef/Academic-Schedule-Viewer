@@ -178,7 +178,7 @@ public class Routine extends JFrame {
 
         public Routine() {
                 setTitle("Academic Schedule Viewer");
-                setSize(400, 620);
+                setSize(520, 760);
                 setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 setLocationRelativeTo(null);
 

@@ -24,7 +24,7 @@ To run the application, follow these steps:
 
 ## Screenshot
 
-![Academic Schedule Viewer Screenshot](dist/screenshots/demo.png)
+<img src="" alt="demo"></img>
 
 ## Features
 
